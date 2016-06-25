@@ -30,6 +30,9 @@
     <sprite>sprites\Spr_water_death</sprite>
     <sprite>sprites\Spr_water_andar</sprite>
     <sprite>sprites\Spr_fire_field</sprite>
+    <sprite>sprites\Spr_pose_enemy</sprite>
+    <sprite>sprites\Spr_enemy_death</sprite>
+    <sprite>sprites\Spr_enemy_damage</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -39,6 +42,7 @@
     <object>objects\Obj_air</object>
     <object>objects\Obj_earth</object>
     <object>objects\Obj_water</object>
+    <object>objects\Obj_fire_special</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
