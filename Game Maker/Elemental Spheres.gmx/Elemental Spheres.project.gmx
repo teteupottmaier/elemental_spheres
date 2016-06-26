@@ -29,21 +29,24 @@
     <sprite>sprites\Spr_water_damage</sprite>
     <sprite>sprites\Spr_water_death</sprite>
     <sprite>sprites\Spr_water_andar</sprite>
-    <sprite>sprites\Spr_fire_field</sprite>
     <sprite>sprites\Spr_pose_enemy</sprite>
     <sprite>sprites\Spr_enemy_death</sprite>
     <sprite>sprites\Spr_enemy_damage</sprite>
+    <sprite>sprites\Spr_fase1</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Obj_fire</object>
-    <object>objects\object2</object>
     <object>objects\Obj_air</object>
     <object>objects\Obj_earth</object>
     <object>objects\Obj_water</object>
     <object>objects\Obj_fire_special</object>
+    <object>objects\Obj_fase1</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\Room_fase1</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
