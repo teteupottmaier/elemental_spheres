@@ -36,6 +36,7 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts"/>
   <objects name="objects">
     <object>objects\Obj_fire</object>
     <object>objects\Obj_air</object>
