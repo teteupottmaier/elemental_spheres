@@ -95,7 +95,10 @@ if (hsp &gt;= 0.1 or hsp &lt; 0){
 
 
 if (ataque = true){
+audio_play_sound(fire_attack_sound, priority, false);
+   
     sprite_index = Spr_fire_attack2;
+
         if (esquerda = true){
             hsp = -10;
            image_xscale=-1;
