@@ -33,6 +33,7 @@
     <sprite>sprites\Spr_enemy_death</sprite>
     <sprite>sprites\Spr_enemy_damage</sprite>
     <sprite>sprites\Spr_fase1</sprite>
+    <sprite>sprites\Spr_fire_attack2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -44,6 +45,7 @@
     <object>objects\Obj_water</object>
     <object>objects\Obj_fire_special</object>
     <object>objects\Obj_fase1</object>
+    <object>objects\Obj_enemy</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Room_fase1</room>
