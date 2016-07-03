@@ -1,0 +1,6 @@
+game estatico
+perspectiva isometrico
+perspectiva cavaleira
+tempo para cada ataque
+dano
+ataque
